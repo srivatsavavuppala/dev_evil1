@@ -2,8 +2,6 @@
 # team:
 jonnada shubhank sagar,20195141.
 vuppala srivatsava,20195115.
-kuldeep jaiswal
-aravind nanduri
 # adaptive learning
 Challenge : Design an Interactive Teacher-Student Adaptive Learning Model 
 Solution Proposed : An Interactive Mobile based application Teaching app 
